@@ -1,0 +1,8 @@
+{
+  "name": "Edge Electrical & Air",
+  "description": "Premium electrical and air conditioning services in Alexandra Headland. Reliable, expert solutions for your home and business.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
